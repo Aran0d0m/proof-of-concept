@@ -1,6 +1,9 @@
 # Undergraduate Tech Conference Proof of Concept 
 
-## Data Processing: 
+## Description:
+This repo holds a collection of relevant papers that contribute towards our proof of concept. On top of that, there is a simple preliminary dataset anaylsis that further supports our concept. 
+
+## Resources: 
 
 **Dataset used: [Official Amtrak FY26 Q1 Delays](https://railroads.dot.gov/elibrary/fy26-q1-delay-metrics)**
 [[Relative Link]](fy26Q1DelayMetrics.xlsx)
